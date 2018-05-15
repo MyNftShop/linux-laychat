@@ -1,0 +1,5 @@
+---------------------------------------------------------------
+[ 2018-05-01T16:44:41+02:00 ] 0.0.0.0 GET /IM/laychat-master/public/admin/data/index.html
+[ info ] localhost/IM/laychat-master/public/admin/data/index.html [运行时间：0.271015s][吞吐率：3.69req/s] [内存消耗：704.96kb] [文件加载：23]
+[ error ] [4]syntax error, unexpected ''user_group'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'[F:\workspace\php\IM\laychat-master\application\config.php:63]
+[ info ] [ LOG ] INIT File
